@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JcoxRii
 - 🌱 I’m currently learning c#
 - 📫 You can reach me at dervisefekapukaya@gmail.com
+- 💫 We just have begun
 
 <!---
 JcoxRii/JcoxRii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
